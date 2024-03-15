@@ -3,7 +3,7 @@ package 기초트레이닝;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Solution {
+public class Solution3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String a = sc.next();

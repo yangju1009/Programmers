@@ -1,10 +1,9 @@
 package 기초트레이닝;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 //덮어쓰기
-class Solution {
+class Solution9 {
 	public String solution(String my_string, String overwrite_string, int s) {
  StringBuilder result = new StringBuilder();
          

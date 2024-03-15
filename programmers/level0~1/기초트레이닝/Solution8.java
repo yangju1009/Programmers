@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 // 홀짝구분
-public class Solution {
+public class Solution8 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

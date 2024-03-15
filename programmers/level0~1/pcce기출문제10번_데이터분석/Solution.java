@@ -13,6 +13,17 @@ data에서 ext 값이 val_ext보다 작은 데이터만 뽑은 후, sort_by에 �
 class Solution {
     public int[][] solution(int[][] data, String ext, int val_ext, String sort_by) {
         int[][] answer = {};
+        int n = data.length; //data 크기
+        String[] data_index = {"code", "date", "maximum", "remain"};
+        for (int i = 0; i < n; i++) {
+        	if (ext.equals(data_index[i])) {
+				/* answer[i] = val_ext; */
+			}
+		}
+        
+        
+        
+        
         return answer;
     }
 }
